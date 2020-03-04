@@ -1,1 +1,1 @@
-ncbi-genome-download
+ncbi-genome-download==0.2.12
