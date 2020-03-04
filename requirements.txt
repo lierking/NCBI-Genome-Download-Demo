@@ -1,0 +1,5 @@
+beautifulsoup4==4.8.2
+bs4==0.0.1
+lxml==4.5.0
+ncbi-genome-download==0.2.12
+requests==2.23.0
