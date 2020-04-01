@@ -1,5 +1,8 @@
 beautifulsoup4==4.8.2
+biopython
 bs4==0.0.1
 lxml==4.5.0
-ncbi-genome-download==0.2.12
+ncbi-genome-download
+pandas
 requests==2.23.0
+xlrd
